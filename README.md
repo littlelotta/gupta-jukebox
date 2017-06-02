@@ -1,4 +1,4 @@
-# karmic jukebox [ SINE ]
+# karmic jukebox [ #GUPTA ]
 
 the karmic player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
 
@@ -8,11 +8,7 @@ what are you waiting for? give it a spin at full volume and enjoy! found at http
 
 the karmic player uses a simple flexi-flux approach which is found at https://github.com/bright-spark/flexi-flux-webapp and has been tested on all webkit supported browsers, android phones and ios devices without a flaw.
 
-coded by martin myburgh [ http://about.me/martinmyburgh ] on friday 7 april 2017
-
 dressed by by little lotta
-
-
 
 aside:
 
