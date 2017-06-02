@@ -1,7 +1,8 @@
-# karmic player
-by disruptive karma
+# karmic jukebox [ SINE ]
 
 the karmic player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
+
+this is the jukebox - a frozen playlist.
 
 what are you waiting for? give it a spin at full volume and enjoy! found at https://karmic-player.netlify.com
 
@@ -9,6 +10,7 @@ the karmic player uses a simple flexi-flux approach which is found at https://gi
 
 coded by martin myburgh [ http://about.me/martinmyburgh ] on friday 7 april 2017
 
+dressed by by little lotta
 
 
 
