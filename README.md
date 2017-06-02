@@ -1,14 +1,10 @@
-# karmic jukebox [ #GUPTA ]
+#gupta jukebox [ #JACARANDA EDITION ]
 
 the karmic player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
 
 this is the jukebox - a frozen playlist.
 
-what are you waiting for? give it a spin at full volume and enjoy! found at https://karmic-player.netlify.com
-
-the karmic player uses a simple flexi-flux approach which is found at https://github.com/bright-spark/flexi-flux-webapp and has been tested on all webkit supported browsers, android phones and ios devices without a flaw.
-
-dressed by by little lotta
+what are you waiting for? give it a spin at full volume and enjoy! the karmic player uses a simple flexi-flux approach which has been tested on all webkit supported browsers, android phones and ios devices without a flaw. dressed by by little lotta
 
 aside:
 
